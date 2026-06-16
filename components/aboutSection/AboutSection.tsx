@@ -5,8 +5,8 @@ import CountUp from "react-countup";
 
 export default function AboutSection() {
   return (
-    <section className="bg-[#F5F5F7] py-20">
-      <div className="ml-25 flex  gap-30">
+    <section className="  bg-[#F5F5F7] py-20">
+      <div className=" container mx-auto px-12 flex  gap-30">
 
         <div className="flex flex-col">
           <div className="mb-5">

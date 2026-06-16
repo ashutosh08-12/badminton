@@ -26,8 +26,8 @@ export default function BadmintonJor() {
   }, []);
 
   return (
-    <section className="flex justify-center py-10 ">
-      <div className="relative  h-[700px] overflow-hidden rounded-[24px] bg-[radial-gradient(36.52%_38.7%_at_50%_50.07%,#000000_0%,#010426_100%)]">
+    <section className="flex container mx-auto px-12  py-10 ">
+      <div className="relative w-full h-[700px] overflow-hidden rounded-[24px] bg-[radial-gradient(36.52%_38.7%_at_50%_50.07%,#000000_0%,#010426_100%)]">
 
         <Image
           src="/line.png"
